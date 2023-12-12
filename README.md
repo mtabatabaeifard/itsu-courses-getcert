@@ -1,2 +1,2 @@
-# itshirazu-certs-verification
-certificates verification for itesa shirazu
+# itshirazu-certs-getter
+certificates getter for itesa shirazu
