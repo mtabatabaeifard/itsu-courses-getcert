@@ -8,10 +8,10 @@ submitBtn.addEventListener("click", (e) => {
     let splitedCertNo = certNo.slice(0,6);
     if (splitedCertNo[4]=="-") {
       certLink = certNo;
-      location.href = `https://certificates.itshirazu.ir/certificates/4021/11-${certLink}.pdf`;
+      location.href = `https://certificates.itshirazu.ir/certificates/4022/12-${certLink}.pdf`;
     }else{
       certLink = certNo;
-      location.href = `https://certificates.itshirazu.ir/certificates/4021/11-${certLink}.pdf`;
+      location.href = `https://certificates.itshirazu.ir/certificates/4022/12-${certLink}.pdf`;
     }
       certNoInput.style.border = "1px solid gray";
       document.getElementsByClassName("error")[0].style.display = "none";
